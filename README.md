@@ -1,2 +1,2 @@
-# Algorithms---FreeCodeCamp-Interview-Preparation
+# Algorithms-FreeCodeCamp-Interview-Preparation
 FreeCodeCamp  Interview Preparation Coding Challenges
